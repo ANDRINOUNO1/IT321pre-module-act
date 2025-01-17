@@ -1,2 +1,2 @@
-#javascript review project by Andrew Mata 
-this project is a review  of javascript concepts , from beginner to advanced.
+#javascript review project by Andrew Czar S.Mata 
+this project is a review  of javascript concepts , from beginner to advanced.   
